@@ -11,7 +11,7 @@
 ### Projects
 - Android Developer - [GONGBAEK](https://github.com/Team-GONG-BAEK/gong-baek-android)
 - Android Lead Developer - [CERTI](https://github.com/cerdeuk/CERTI-ANDROID)
-- Android Developer - [Team5](https://github.com/depromeet/17th-team5-Android)
+- Android Developer - [HEDGE](https://github.com/depromeet/17th-team5-Android)
 
 ### Activity
 - 35th SOPT - Android Developer(2024)
@@ -19,7 +19,7 @@
 - 17th Depromeet - Android Developer(2025)
 
 ### Links
-[![Tech Blog](https://img.shields.io/badge/-Tech%20Blog-black?logo=notion&logoColor=white&label=)](https://bbooyaaa.tistory.com/)
+[![Tech Blog](https://img.shields.io/badge/-Tech%20Blog-black?logo=tistory&logoColor=white&label=)](https://bbooyaaa.tistory.com/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&label=)](https://instagram.com/bboo_yaaa)
 
 
